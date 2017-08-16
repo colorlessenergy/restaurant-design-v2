@@ -4,11 +4,63 @@ title = "About"
 url = "/about"
 +++
 
-## Something about the restaurant goes here
+# about
 
----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis placerat nulla, eget tempus arcu volutpat ut. Pellentesque ut ligula sit amet sapien mattis pretium. Nullam viverra, est tincidunt sagittis pretium, ligula orci tristique augue, ac feugiat libero ante ut orci. Sed dictum at arcu ac bibendum. Aenean purus libero, molestie sit amet iaculis quis, sodales et erat. Nulla auctor porta mi, id tristique orci malesuada quis. Proin commodo lacinia fringilla. In suscipit ligula a tristique consectetur. Mauris non tortor felis. Morbi nec ornare quam. Aenean ac felis porttitor, varius odio et, finibus purus. Duis at nulla rutrum, vestibulum nunc quis, interdum nunc. Morbi ac arcu eget elit blandit tincidunt. Cras velit arcu, dapibus id massa posuere, vestibulum semper orci. Aliquam ullamcorper ut justo non laoreet.
+<div class="location-maps">
+<div>
+<p> 5484 E Stearns St Ste 2 Long Beach, CA 90815 </p>
+<div id="map_canvas">
+  <img src="../image/mvps1.png" />
+</div>
+</div>
+<div>
+<p> 2742 E 4th St Long Beach, CA 90814</p>
 
-Sincerely,
-# Mr. Bojangles
+<div id="map_canvas2">
+  <img src="../image/mvps2.png" />
+</div>
+</div>
+</div>
+
+<ul class="location">
+	<li>
+		Los Altos
+	</li>
+	<li>
+		<a href="https://www.google.com/maps/place/5484+E+Stearns+St+%232,+Long+Beach,+CA+90815/@33.7958479,-118.1282256,17z/data=!3m1!4b1!4m5!3m4!1s0x80dd31ef170edb2f:0xa16141474e367da3!8m2!3d33.7958479!4d-118.1260316">
+						5484 E Stearns St
+						Ste 2
+						Long Beach, CA 90815
+		</a>
+	</li>
+	<li>
+		<h3>hours:</h3>
+		<p>Monday - Friday	10:30 am - 9:00 pm</p>
+		<p>Saturday 10:30 am - 10:00 pm</p>
+		<p class="left">Sunday 10:30 am - 9:00 pm</p>
+	</li>
+	<li class="mvp-number-item">
+					(562) 494-3555
+	</li>
+	<li>
+		Downtown long beach
+	</li>
+	<li>
+		<a href="https://www.google.com/maps/place/2742+E+4th+St,+Long+Beach,+CA+90814/@33.7715662,-118.1613791,17z/data=!3m1!4b1!4m5!3m4!1s0x80dd31081d5276b5:0x41b7b6b190dc1e57!8m2!3d33.7715662!4d-118.1591851">
+			2742 E 4th St
+			Long Beach, CA 90814
+		</a>
+	</li>
+	<li>
+		<h3>hours:</h3>
+		<p>Monday - Friday 	10:00 am - 9:00 pm</p>
+		<p>Saturday 9:30 am - 9:00 pm</p>
+		<p class="left">Sunday 10:00 am - 8:00 pm</p>
+	</li>
+	<li>
+		(562) 439-0809
+	</li>
+</ul>
+
+# MVPS

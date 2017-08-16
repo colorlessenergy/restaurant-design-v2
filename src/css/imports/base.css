@@ -763,7 +763,8 @@ a.sidebar-nav-item {
   }
 }
 
-video {
+
+.container img#main-img {
   object-fit: cover;
   width: 100vw;
   height: 100vh;
@@ -771,4 +772,43 @@ video {
   top: 0;
   left: 0;
   z-index: -1;
+}
+
+.location-maps {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.location-maps div:first-of-type {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+}
+
+.location {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.location li {
+  flex-direction: column;
+}
+
+.mvp-number-item {
+  margin-bottom: 30px
+}
+
+#mvps {
+  margin: 64px 0 0 0;
+}
+
+@media screen and (max-width: 30em) {
+  .container #main-img {
+    max-height: 100vh;
+    max-width: 100vh;
+  }
 }
