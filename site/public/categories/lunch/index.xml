@@ -1,85 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lunch on Tasty Licks</title>
+    <title>Lunch on MVPS</title>
     <link>/categories/lunch/</link>
-    <description>Recent content in Lunch on Tasty Licks</description>
+    <description>Recent content in Lunch on MVPS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 13:03:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 07:41:50 -0700</lastBuildDate>
     
 	<atom:link href="/categories/lunch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>chilled wild louisiana gulf shrimp</title>
-      <link>/food/shrimp/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Big George Foreman Burger</title>
+      <link>/food/big-george-foreman-burger/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/shrimp/</guid>
+      <guid>/food/big-george-foreman-burger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>crispy imperial rolls</title>
-      <link>/food/imperial-roll/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Chili Cheese Fries</title>
+      <link>/food/chili-cheese-fries/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/imperial-roll/</guid>
+      <guid>/food/chili-cheese-fries/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>crispy vegetarian imperial rolls</title>
-      <link>/food/vegan-imperial-roll/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Jackie Joyner Kersee Salad</title>
+      <link>/food/jackie-joyner-kersee-salad/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/vegan-imperial-roll/</guid>
+      <guid>/food/jackie-joyner-kersee-salad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>half dozen oysters</title>
-      <link>/food/oysters/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>combo 2</title>
+      <link>/food/combo-2-combination/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/oysters/</guid>
+      <guid>/food/combo-2-combination/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>live atlantic sea scallop</title>
-      <link>/food/scallop/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>hat trick</title>
+      <link>/food/hat-trick-burger/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/scallop/</guid>
+      <guid>/food/hat-trick-burger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>slanted door spring rolls</title>
-      <link>/food/spring-roll/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Christiano Ronaldo Sandwich</title>
+      <link>/food/christiano-ronaldo-sandwich/</link>
+      <pubDate>Wed, 17 May 2017 17:03:58 +0000</pubDate>
       
-      <guid>/food/spring-roll/</guid>
+      <guid>/food/christiano-ronaldo-sandwich/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spicy ahi tuna tartare</title>
-      <link>/food/tartare/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Mark Sanchez Hot Dog</title>
+      <link>/food/mark-sanchez-hot-dog/</link>
+      <pubDate>Wed, 17 May 2017 17:03:58 +0000</pubDate>
       
-      <guid>/food/tartare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetarian spring rolls</title>
-      <link>/food/vegan-spring-roll/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
-      
-      <guid>/food/vegan-spring-roll/</guid>
+      <guid>/food/mark-sanchez-hot-dog/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on MVPS</title>
+    <link>/gallery/</link>
+    <description>Recent content in Galleries on MVPS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>banana</title>
+      <link>/gallery/banana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/banana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meat</title>
+      <link>/gallery/kiwi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/kiwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orange</title>
+      <link>/gallery/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pepper</title>
+      <link>/gallery/pepper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/pepper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

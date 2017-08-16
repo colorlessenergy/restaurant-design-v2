@@ -1,85 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tasty Licks</title>
+    <title>MVPS</title>
     <link>/</link>
-    <description>Recent content on Tasty Licks</description>
+    <description>Recent content on MVPS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 13:03:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 07:41:50 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>chilled wild louisiana gulf shrimp</title>
-      <link>/food/shrimp/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Big George Foreman Burger</title>
+      <link>/food/big-george-foreman-burger/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/shrimp/</guid>
+      <guid>/food/big-george-foreman-burger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>crispy imperial rolls</title>
-      <link>/food/imperial-roll/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Chili Cheese Fries</title>
+      <link>/food/chili-cheese-fries/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/imperial-roll/</guid>
+      <guid>/food/chili-cheese-fries/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>crispy vegetarian imperial rolls</title>
-      <link>/food/vegan-imperial-roll/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Jackie Joyner Kersee Salad</title>
+      <link>/food/jackie-joyner-kersee-salad/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/vegan-imperial-roll/</guid>
+      <guid>/food/jackie-joyner-kersee-salad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>half dozen oysters</title>
-      <link>/food/oysters/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>combo 2</title>
+      <link>/food/combo-2-combination/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/oysters/</guid>
+      <guid>/food/combo-2-combination/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>live atlantic sea scallop</title>
-      <link>/food/scallop/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>hat trick</title>
+      <link>/food/hat-trick-burger/</link>
+      <pubDate>Thu, 10 Aug 2017 07:41:50 -0700</pubDate>
       
-      <guid>/food/scallop/</guid>
+      <guid>/food/hat-trick-burger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>slanted door spring rolls</title>
-      <link>/food/spring-roll/</link>
+      <title>About</title>
+      <link>/about/</link>
       <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
       
-      <guid>/food/spring-roll/</guid>
+      <guid>/about/</guid>
+      <description>about   5484 E Stearns St Ste 2 Long Beach, CA 90815     2742 E 4th St Long Beach, CA 90814
+    Los Altos   5484 E Stearns St Ste 2 Long Beach, CA 90815    hours: Monday - Friday 10:30 am - 9:00 pm
+Saturday 10:30 am - 10:00 pm
+Sunday 10:30 am - 9:00 pm
+ (562) 494-3555   Downtown long beach   2742 E 4th St Long Beach, CA 90814    hours: Monday - Friday 10:00 am - 9:00 pm</description>
+    </item>
+    
+    <item>
+      <title>Christiano Ronaldo Sandwich</title>
+      <link>/food/christiano-ronaldo-sandwich/</link>
+      <pubDate>Wed, 17 May 2017 17:03:58 +0000</pubDate>
+      
+      <guid>/food/christiano-ronaldo-sandwich/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spicy ahi tuna tartare</title>
-      <link>/food/tartare/</link>
-      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      <title>Mark Sanchez Hot Dog</title>
+      <link>/food/mark-sanchez-hot-dog/</link>
+      <pubDate>Wed, 17 May 2017 17:03:58 +0000</pubDate>
       
-      <guid>/food/tartare/</guid>
+      <guid>/food/mark-sanchez-hot-dog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>vegetarian spring rolls</title>
-      <link>/food/vegan-spring-roll/</link>
+      <title>iced tea</title>
+      <link>/drinks/tea/</link>
       <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
       
-      <guid>/food/vegan-spring-roll/</guid>
+      <guid>/drinks/tea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soda</title>
+      <link>/drinks/soda/</link>
+      <pubDate>Wed, 17 May 2017 13:03:58 -0400</pubDate>
+      
+      <guid>/drinks/soda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banana</title>
+      <link>/gallery/banana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/banana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meat</title>
+      <link>/gallery/kiwi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/kiwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orange</title>
+      <link>/gallery/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pepper</title>
+      <link>/gallery/pepper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/pepper/</guid>
       <description></description>
     </item>
     
